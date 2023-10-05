@@ -1,2 +1,2 @@
 # my_project
-RewadsConverter codebase
+RewardsConverter codebase
